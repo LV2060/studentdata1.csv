@@ -1,0 +1,11 @@
+#d={"Name:DURGA"}
+#print(d)
+d=(("Name","psycho"),("id",407))
+output=dict((key,value)for key,value in d)
+print(output)
+d=(("Name","durga"),("id",603))
+output=dict((key,value)for key,value in d)
+print(output)
+d=(("Name","vijju"),("id",512))
+output=dict((key,value)for key,value in d)
+print(output)
